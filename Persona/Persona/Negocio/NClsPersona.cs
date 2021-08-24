@@ -36,5 +36,7 @@ namespace Persona.Negocio
             return " La persona de nombre " + persona.Nombre + " esta observando ";
 
         }
+
+        // Adamaris Díaz:(
     }
 }
