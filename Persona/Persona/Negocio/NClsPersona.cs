@@ -16,14 +16,14 @@ namespace Persona.Negocio
 
         }
 
-        public String Caminarr(ClsPersona persona)
+        public String Caminar(ClsPersona persona)
         {
 
             return " La persona de nombre " + persona.Nombre + " esta caminando ";
 
         }
 
-        public String Reirr(ClsPersona persona)
+        public String Reir(ClsPersona persona)
         {
 
             return " La persona de nombre " + persona.Nombre + " esta riendo ";
